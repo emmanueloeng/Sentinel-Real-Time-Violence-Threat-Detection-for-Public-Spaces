@@ -138,13 +138,9 @@ python train.py --dataset ucf_crime --backbone x3d --epochs [N]
 ---
 
 ## Performance
-
-Fill in with your real numbers once benchmarked — these carry real weight with employers.
-
-- Inference latency per clip: [Xms]
-- Violence detection accuracy on UCF-Crime test split: [X%]
-- False positive rate: [X per hour of normal public-space footage]
-- End-to-end alert latency (event to notification): [under X seconds]
+- Inference latency per clip: 7seconds(14 seconds clip)
+- Violence detection accuracy on UCF-Crime test split: 70% (on a raspberry pi 5)
+- End-to-end alert latency (event to notification): 35 seconds
 
 ---
 
