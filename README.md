@@ -1,6 +1,6 @@
 # Sentinel  Real-Time Violence & Threat Detection for Public Spaces
 
-An edge-deployable spatiotemporal AI model that watches public space video feeds and detects violent activity  fighting, shootings, assault, armed threats — as it's unfolding, and alerts authorities before it escalates.
+An edge-deployable spatiotemporal AI model that watches public space video feeds and detects violent activity  fighting, shootings, assault, armed threats  as it's unfolding, and alerts authorities before it escalates.
 
 ---
 
