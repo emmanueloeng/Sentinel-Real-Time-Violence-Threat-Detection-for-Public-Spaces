@@ -1,14 +1,14 @@
 # Sentinel  Real-Time Violence & Threat Detection for Public Spaces
 
-An edge-deployable spatiotemporal AI model that watches public space video feeds and detects violent activity — fighting, shootings, assault, armed threats — as it's unfolding, and alerts authorities before it escalates.
+An edge-deployable spatiotemporal AI model that watches public space video feeds and detects violent activity  fighting, shootings, assault, armed threats — as it's unfolding, and alerts authorities before it escalates.
 
 ---
 
 ## Overview
 
-Sentinel is built for public safety monitoring — transit stations, malls, streets, campuses — anywhere a fixed or networked camera feed exists but no one can watch every screen at once. Instead of relying on a human operator to catch a fight or a weapon in a sea of monitors, Sentinel watches continuously and flags violent activity the moment its confidence crosses threshold, routing an alert to the relevant authority in near real time.
+Sentinel is built for public safety monitoring — transit stations, malls, streets, campuses  anywhere a fixed or networked camera feed exists but no one can watch every screen at once. Instead of relying on a human operator to catch a fight or a weapon in a sea of monitors, Sentinel watches continuously and flags violent activity the moment its confidence crosses threshold, routing an alert to the relevant authority in near real time.
 
-The core of Sentinel is STEAD, a spatiotemporal deep learning model built on an X3D backbone, trained specifically to recognize the motion and appearance patterns of violent activity across video clips rather than single frames — because violence is an event that unfolds over time, not a static image.
+The core of Sentinel is STEAD, a spatiotemporal deep learning model built on an X3D backbone, trained specifically to recognize the motion and appearance patterns of violent activity across video clips rather than single frames  because violence is an event that unfolds over time, not a static image.
 
 Built as a personal project to explore real-time video understanding for public safety, using models efficient enough to run continuously on modest hardware rather than requiring a data-center GPU per camera.
 
